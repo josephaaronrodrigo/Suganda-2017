@@ -1,0 +1,153 @@
+[03-Jul-2017 01:03:11] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/loan/model/operation.php on line 42
+[03-Jul-2017 01:05:50] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/loan/model/operation.php on line 42
+[03-Jul-2017 01:13:56] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/loan/model/operation.php on line 42
+[03-Jul-2017 01:18:57] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/loan/model/operation.php on line 42
+[03-Jul-2017 01:19:07] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/loan/model/operation.php on line 42
+[03-Jul-2017 01:23:18] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/loan/model/operation.php on line 42
+[03-Jul-2017 01:25:54] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/loan/model/operation.php on line 42
+[03-Jul-2017 01:28:31] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/loan/model/operation.php on line 42
+[03-Jul-2017 01:28:42] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/loan/model/operation.php on line 42
+[03-Jul-2017 01:48:38] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/loan/model/operation.php on line 42
+[03-Jul-2017 01:48:45] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/loan/model/operation.php on line 42
+[03-Jul-2017 01:49:48] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/loan/model/operation.php on line 42
+[03-Jul-2017 01:51:38] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/loan/model/operation.php on line 42
+[03-Jul-2017 01:53:26] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/loan/model/operation.php on line 42
+[03-Jul-2017 01:54:40] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/loan/model/operation.php on line 42
+[03-Jul-2017 01:54:46] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/loan/model/operation.php on line 42
+[03-Jul-2017 01:55:32] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/loan/model/operation.php on line 42
+[03-Jul-2017 02:01:03] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/loan/model/operation.php on line 42
+[03-Jul-2017 02:01:10] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/loan/model/operation.php on line 42
+[03-Jul-2017 02:01:32] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/loan/model/operation.php on line 42
+[03-Jul-2017 02:02:55] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/loan/model/operation.php on line 42
+[03-Jul-2017 02:03:02] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/loan/model/operation.php on line 42
+[03-Jul-2017 02:07:06] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/loan/model/operation.php on line 42
+[03-Jul-2017 02:07:12] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/loan/model/operation.php on line 42
+[03-Jul-2017 02:07:28] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/loan/model/operation.php on line 42
+[03-Jul-2017 02:07:36] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/loan/model/operation.php on line 42
+[03-Jul-2017 02:07:51] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/loan/model/operation.php on line 42
+[03-Jul-2017 02:09:31] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/loan/model/operation.php on line 42
+[03-Jul-2017 02:09:38] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/loan/model/operation.php on line 42
+[03-Jul-2017 02:16:36] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/loan/model/operation.php on line 42
+[03-Jul-2017 02:31:22] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/loan/model/operation.php on line 42
+[03-Jul-2017 02:31:28] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/loan/model/operation.php on line 42
+[03-Jul-2017 02:31:45] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/loan/model/operation.php on line 42
+[03-Jul-2017 02:31:50] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/loan/model/operation.php on line 42
+[03-Jul-2017 02:32:03] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/loan/model/operation.php on line 42
+[03-Jul-2017 02:37:06] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/loan/model/operation.php on line 42
+[03-Jul-2017 02:39:24] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/loan/model/operation.php on line 42
+[03-Jul-2017 02:41:11] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/loan/model/operation.php on line 42
+[03-Jul-2017 02:41:17] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/loan/model/operation.php on line 42
+[03-Jul-2017 02:45:03] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/loan/model/operation.php on line 42
+[03-Jul-2017 02:45:16] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/loan/model/operation.php on line 42
+[03-Jul-2017 02:46:18] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/loan/model/operation.php on line 42
+[03-Jul-2017 02:46:35] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/loan/model/operation.php on line 42
+[03-Jul-2017 02:46:50] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/loan/model/operation.php on line 42
+[03-Jul-2017 02:55:30] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/loan/model/operation.php on line 42
+[03-Jul-2017 03:00:46] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/loan/model/operation.php on line 42
+[03-Jul-2017 03:03:40] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '.loan/model/operation.php' for inclusion (include_path='.:/usr/lib64/php:/usr/share/pear') in /home4/sugandaa/public_html/loan/loan-form.php on line 450
+[03-Jul-2017 03:06:29] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '.loan/model/operation.php' for inclusion (include_path='.:/usr/lib64/php:/usr/share/pear') in /home4/sugandaa/public_html/loan/loan-form.php on line 450
+[03-Jul-2017 03:10:27] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/loan/model/operation.php on line 42
+[03-Jul-2017 03:12:44] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/loan/model/operation.php on line 42
+[03-Jul-2017 03:17:55] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/loan/model/operation.php on line 42
+[03-Jul-2017 03:19:36] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/model/operation.php on line 42
+[03-Jul-2017 03:23:14] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/model/operation.php on line 42
+[03-Jul-2017 03:33:39] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/model/operation.php on line 42
+[03-Jul-2017 03:37:15] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/model/operation.php on line 42
+[03-Jul-2017 03:38:25] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/model/operation.php on line 42
+[03-Jul-2017 03:41:01] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/model/operation.php on line 42
+[03-Jul-2017 03:43:49] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/model/operation.php on line 42
+[03-Jul-2017 03:45:38] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/model/operation.php on line 42
+[03-Jul-2017 03:57:21] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/model/operation.php on line 42
+[03-Jul-2017 16:28:45] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/model/operation.php on line 42
+[03-Jul-2017 16:36:24] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/model/operation.php on line 42
+[03-Jul-2017 16:36:35] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/model/operation.php on line 42
+[03-Jul-2017 16:55:10] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/model/operation.php on line 42
+[03-Jul-2017 17:05:59] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/model/operation.php on line 42
+[03-Jul-2017 17:06:09] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/model/operation.php on line 42
+[03-Jul-2017 17:09:16] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/model/operation.php on line 42
+[03-Jul-2017 18:02:32] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/model/operation.php on line 42
+[03-Jul-2017 18:09:16] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/model/operation.php on line 42
+[03-Jul-2017 20:20:36] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/model/operation.php on line 42
+[03-Jul-2017 20:21:31] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/model/operation.php on line 42
+[03-Jul-2017 20:23:58] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/model/operation.php on line 42
+[03-Jul-2017 20:24:06] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/model/operation.php on line 42
+[03-Jul-2017 20:31:19] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/model/operation.php on line 42
+[03-Jul-2017 20:32:18] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/model/operation.php on line 42
+[03-Jul-2017 20:32:56] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/model/operation.php on line 42
+[03-Jul-2017 20:33:16] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/model/operation.php on line 42
+[03-Jul-2017 20:33:28] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/model/operation.php on line 42
+[03-Jul-2017 20:33:45] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/model/operation.php on line 42
+[03-Jul-2017 20:33:51] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/model/operation.php on line 42
+[03-Jul-2017 20:34:03] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/model/operation.php on line 42
+[03-Jul-2017 20:34:42] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/model/operation.php on line 42
+[03-Jul-2017 20:35:33] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/model/operation.php on line 42
+[03-Jul-2017 20:35:42] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/model/operation.php on line 42
+[03-Jul-2017 20:39:34] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/model/operation.php on line 42
+[03-Jul-2017 20:39:41] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/model/operation.php on line 42
+[03-Jul-2017 20:43:43] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/model/operation.php on line 42
+[03-Jul-2017 20:43:54] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/model/operation.php on line 42
+[03-Jul-2017 20:43:58] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/model/operation.php on line 42
+[03-Jul-2017 20:46:30] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/model/operation.php on line 42
+[03-Jul-2017 20:46:39] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/model/operation.php on line 42
+[03-Jul-2017 20:52:07] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '..loan/model/operation.php' for inclusion (include_path='.:/usr/lib64/php:/usr/share/pear') in /home4/sugandaa/public_html/loan/loan-form.php on line 453
+[03-Jul-2017 20:52:16] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '..loan/model/operation.php' for inclusion (include_path='.:/usr/lib64/php:/usr/share/pear') in /home4/sugandaa/public_html/loan/loan-form.php on line 453
+[03-Jul-2017 20:52:16] PHP Fatal error:  Class 'Operation' not found in /home4/sugandaa/public_html/loan/loan-form.php on line 458
+[03-Jul-2017 20:52:40] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '..loan/model/operation.php' for inclusion (include_path='.:/usr/lib64/php:/usr/share/pear') in /home4/sugandaa/public_html/loan/loan-form.php on line 453
+[03-Jul-2017 20:52:46] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '..loan/model/operation.php' for inclusion (include_path='.:/usr/lib64/php:/usr/share/pear') in /home4/sugandaa/public_html/loan/loan-form.php on line 453
+[03-Jul-2017 20:52:46] PHP Fatal error:  Class 'Operation' not found in /home4/sugandaa/public_html/loan/loan-form.php on line 458
+[03-Jul-2017 20:52:56] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '..loan/model/operation.php' for inclusion (include_path='.:/usr/lib64/php:/usr/share/pear') in /home4/sugandaa/public_html/loan/loan-form.php on line 453
+[03-Jul-2017 20:52:56] PHP Fatal error:  Class 'Operation' not found in /home4/sugandaa/public_html/loan/loan-form.php on line 458
+[03-Jul-2017 20:53:27] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '..loan/model/operation.php' for inclusion (include_path='.:/usr/lib64/php:/usr/share/pear') in /home4/sugandaa/public_html/loan/loan-form.php on line 453
+[03-Jul-2017 20:53:34] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '..loan/model/operation.php' for inclusion (include_path='.:/usr/lib64/php:/usr/share/pear') in /home4/sugandaa/public_html/loan/loan-form.php on line 453
+[03-Jul-2017 20:53:34] PHP Fatal error:  Class 'Operation' not found in /home4/sugandaa/public_html/loan/loan-form.php on line 458
+[03-Jul-2017 20:56:00] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '..loan/model/operation.php' for inclusion (include_path='.:/usr/lib64/php:/usr/share/pear') in /home4/sugandaa/public_html/loan/loan-form.php on line 453
+[03-Jul-2017 20:56:07] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '..loan/model/operation.php' for inclusion (include_path='.:/usr/lib64/php:/usr/share/pear') in /home4/sugandaa/public_html/loan/loan-form.php on line 453
+[03-Jul-2017 20:56:07] PHP Fatal error:  Class 'Operation' not found in /home4/sugandaa/public_html/loan/loan-form.php on line 458
+[03-Jul-2017 20:56:32] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '..loan/model/operation.php' for inclusion (include_path='.:/usr/lib64/php:/usr/share/pear') in /home4/sugandaa/public_html/loan/loan-form.php on line 453
+[03-Jul-2017 20:56:38] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '..loan/model/operation.php' for inclusion (include_path='.:/usr/lib64/php:/usr/share/pear') in /home4/sugandaa/public_html/loan/loan-form.php on line 453
+[03-Jul-2017 20:56:38] PHP Fatal error:  Class 'Operation' not found in /home4/sugandaa/public_html/loan/loan-form.php on line 458
+[03-Jul-2017 21:03:11] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '..loan/model/operation.php' for inclusion (include_path='.:/usr/lib64/php:/usr/share/pear') in /home4/sugandaa/public_html/loan/loan-form.php on line 453
+[03-Jul-2017 21:03:11] PHP Fatal error:  Class 'Operation' not found in /home4/sugandaa/public_html/loan/loan-form.php on line 458
+[03-Jul-2017 21:05:09] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '..loan/model/operation.php' for inclusion (include_path='.:/usr/lib64/php:/usr/share/pear') in /home4/sugandaa/public_html/loan/loan-form.php on line 453
+[03-Jul-2017 21:08:07] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/loan/model/operation.php on line 42
+[03-Jul-2017 21:08:12] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/loan/model/operation.php on line 42
+[03-Jul-2017 21:08:17] PHP Fatal error:  Cannot redeclare Operation::saveLoanData() in /home4/sugandaa/public_html/loan/model/operation.php on line 42
+[04-Jul-2017 02:48:16] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../loan/model/operation.php' for inclusion (include_path='.:/usr/lib64/php:/usr/share/pear') in /home4/sugandaa/public_html/loan/loan-form.php on line 453
+[04-Jul-2017 02:48:27] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../loan/model/operation.php' for inclusion (include_path='.:/usr/lib64/php:/usr/share/pear') in /home4/sugandaa/public_html/loan/loan-form.php on line 453
+[04-Jul-2017 02:48:27] PHP Fatal error:  Class 'Operation' not found in /home4/sugandaa/public_html/loan/loan-form.php on line 458
+[04-Jul-2017 03:05:10] PHP Fatal error:  Call to undefined method Connection::query2() in /home4/sugandaa/public_html/loan/model/loan-operation.php on line 16
+[09-Aug-2017 05:09:18 America/Denver] PHP Fatal error:  Call to undefined method Operation::getPendingInst() in /home4/sugandaa/public_html/loan/loan-form.php on line 800
+[10-Aug-2017 05:51:27 America/Denver] PHP Notice:  Undefined index: approved_amount in /home4/sugandaa/public_html/loan/installment-update.php on line 367
+[10-Aug-2017 06:00:44 America/Denver] PHP Notice:  Undefined index: approved_amount in /home4/sugandaa/public_html/loan/installment-update.php on line 367
+[10-Aug-2017 15:55:29 America/Denver] PHP Notice:  Undefined index: approved_amount in /home4/sugandaa/public_html/loan/installment-update.php on line 367
+[10-Aug-2017 16:15:35 America/Denver] PHP Notice:  Undefined index: approved_amount in /home4/sugandaa/public_html/loan/installment-update.php on line 367
+[10-Aug-2017 16:16:19 America/Denver] PHP Notice:  Undefined index: approved_amount in /home4/sugandaa/public_html/loan/installment-update.php on line 367
+[10-Aug-2017 20:21:32 America/Denver] PHP Notice:  Undefined variable: empId in /home4/sugandaa/public_html/loan/installment-update.php on line 320
+[10-Aug-2017 20:21:32 America/Denver] PHP Notice:  Undefined variable: plant in /home4/sugandaa/public_html/loan/installment-update.php on line 320
+[10-Aug-2017 20:21:32 America/Denver] PHP Notice:  Undefined variable: empId in /home4/sugandaa/public_html/loan/installment-update.php on line 322
+[10-Aug-2017 20:21:32 America/Denver] PHP Notice:  Undefined variable: plant in /home4/sugandaa/public_html/loan/installment-update.php on line 322
+[10-Aug-2017 20:22:11 America/Denver] PHP Notice:  Undefined variable: msg in /home4/sugandaa/public_html/loan/installment-update.php on line 330
+[10-Aug-2017 20:22:11 America/Denver] PHP Notice:  Undefined index: approved_amount in /home4/sugandaa/public_html/loan/installment-update.php on line 375
+[10-Aug-2017 20:53:37 America/Denver] PHP Notice:  Undefined variable: empId in /home4/sugandaa/public_html/loan/installment-update.php on line 320
+[10-Aug-2017 20:53:37 America/Denver] PHP Notice:  Undefined variable: plant in /home4/sugandaa/public_html/loan/installment-update.php on line 320
+[10-Aug-2017 20:53:37 America/Denver] PHP Notice:  Undefined variable: empId in /home4/sugandaa/public_html/loan/installment-update.php on line 322
+[10-Aug-2017 20:53:37 America/Denver] PHP Notice:  Undefined variable: plant in /home4/sugandaa/public_html/loan/installment-update.php on line 322
+[11-Aug-2017 01:42:10 America/Denver] PHP Fatal error:  Call to undefined method Connection::query2() in /home4/sugandaa/public_html/loan/model/loan-operation.php on line 33
+[11-Aug-2017 01:42:28 America/Denver] PHP Fatal error:  Call to undefined method Connection::query2() in /home4/sugandaa/public_html/loan/model/loan-operation.php on line 33
+[11-Aug-2017 01:42:30 America/Denver] PHP Fatal error:  Call to undefined method Connection::query2() in /home4/sugandaa/public_html/loan/model/loan-operation.php on line 33
+[11-Aug-2017 01:44:13 America/Denver] PHP Fatal error:  Call to undefined method Connection::query2() in /home4/sugandaa/public_html/loan/model/loan-operation.php on line 33
+[11-Aug-2017 01:44:24 America/Denver] PHP Fatal error:  Call to undefined method Connection::query2() in /home4/sugandaa/public_html/loan/model/loan-operation.php on line 33
+[11-Aug-2017 01:56:07 America/Denver] PHP Fatal error:  Call to undefined method Connection::query2() in /home4/sugandaa/public_html/loan/model/loan-operation.php on line 33
+[11-Aug-2017 01:56:27 America/Denver] PHP Fatal error:  Call to undefined method Connection::query2() in /home4/sugandaa/public_html/loan/model/loan-operation.php on line 33
+[11-Aug-2017 02:05:16 America/Denver] PHP Fatal error:  Call to undefined method Connection::query2() in /home4/sugandaa/public_html/loan/model/loan-operation.php on line 33
+[11-Aug-2017 02:09:38 America/Denver] PHP Fatal error:  Call to undefined method Connection::query2() in /home4/sugandaa/public_html/loan/model/loan-operation.php on line 33
+[11-Aug-2017 02:09:45 America/Denver] PHP Fatal error:  Call to undefined method Connection::query2() in /home4/sugandaa/public_html/loan/model/loan-operation.php on line 33
+[11-Aug-2017 02:10:20 America/Denver] PHP Fatal error:  Call to undefined method Connection::query2() in /home4/sugandaa/public_html/loan/model/loan-operation.php on line 33
+[11-Aug-2017 02:14:24 America/Denver] PHP Fatal error:  Call to undefined method Connection::query2() in /home4/sugandaa/public_html/loan/model/loan-operation.php on line 33
+[11-Aug-2017 02:18:46 America/Denver] PHP Fatal error:  Call to undefined method Connection::query2() in /home4/sugandaa/public_html/loan/model/loan-operation.php on line 33
+[11-Aug-2017 02:19:05 America/Denver] PHP Fatal error:  Call to undefined method Connection::query2() in /home4/sugandaa/public_html/loan/model/loan-operation.php on line 33
+[11-Aug-2017 02:19:12 America/Denver] PHP Fatal error:  Call to undefined method Connection::query2() in /home4/sugandaa/public_html/loan/model/loan-operation.php on line 33
+[11-Aug-2017 02:19:57 America/Denver] PHP Fatal error:  Call to undefined method Connection::query2() in /home4/sugandaa/public_html/loan/model/loan-operation.php on line 33
+[11-Aug-2017 02:23:09 America/Denver] PHP Fatal error:  Call to undefined method Connection::query2() in /home4/sugandaa/public_html/loan/model/loan-operation.php on line 33
+[11-Aug-2017 02:23:14 America/Denver] PHP Fatal error:  Call to undefined method Connection::query2() in /home4/sugandaa/public_html/loan/model/loan-operation.php on line 33
+[11-Aug-2017 02:23:18 America/Denver] PHP Fatal error:  Call to undefined method Connection::query2() in /home4/sugandaa/public_html/loan/model/loan-operation.php on line 33
